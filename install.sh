@@ -6,7 +6,7 @@ mkdir datasets
 
 conda create -n refinebox python=3.10 -y \
 && conda activate refinebox \
-&& conda install -c "nvidia/label/cuda-11.8.0" cuda-nvcc -y \
+&& conda install -c "nvidia/label/cuda-11.7.0" cuda-nvcc -y \
 && conda install pytorch==1.13.1 torchvision==0.14.1 pytorch-cuda=11.7 -c pytorch -c nvidia -y \
 && git clone https://gitlab.com/yiqunchen1999/detectron2.git \
 && python -m pip install -e detectron2 \
