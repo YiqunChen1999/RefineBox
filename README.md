@@ -201,4 +201,4 @@ If you find this work helpful, please cite:
 
 ## Acknowledgement
 
-This project is based on [detrex]() and [detectron2](https://github.com/facebookresearch/detectron2.git). We thank the authors for their great works. We also thank [Detic](https://github.com/facebookresearch/Detic) for the Critetion with Federated Loss.
+This project is based on [detrex](https://github.com/IDEA-Research/detrex) and [detectron2](https://github.com/facebookresearch/detectron2). We thank the authors for their great works. We also thank [Detic](https://github.com/facebookresearch/Detic) for the Critetion with Federated Loss.
